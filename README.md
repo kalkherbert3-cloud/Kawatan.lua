@@ -1,0 +1,2 @@
+# Kawatan.lua
+.lua
